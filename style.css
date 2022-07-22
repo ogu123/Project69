@@ -43,3 +43,10 @@ input
 .movie_text span{
     color:aqua;
 }
+.environment_li{
+    margin-top:13px;
+}
+.envrionment_li h4{
+    border-bottom:1px solid white;
+    padding:8px;
+}
